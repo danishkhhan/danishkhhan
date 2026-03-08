@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**danishkhhan/danishkhhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats-fast.vercel.app/api?username=danishkhhan&show_icons=true&hide_border=true&theme=transparent" />
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=danishkhhan&hide_border=true&theme=transparent" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danishkhhan&layout=compact&hide_border=true&theme=transparent" />
+
+<br><br>
+
+<i>i use windows btw</i>
+
+</div>
+
