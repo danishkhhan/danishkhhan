@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="image-new.png" />
+<img src="Screenshot_2026-04-04_231227-removebg-preview.png" />
 
 </div>
 
